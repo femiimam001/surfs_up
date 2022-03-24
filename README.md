@@ -24,4 +24,4 @@ Deliverable 1: Determine the Summary Statistics for June Deliverable 2: Determin
 ![merged_summary_stats](https://github.com/femiimam001/surfs_up/edit/main/merged_summary_stats.PNG)
 
 June Recorded Temps Visualization (Temperature and Frequency)
-[plot_june_df](https://github.com/femiimam001/surfs_up/edit/main/plot_june_df.PNG)
+![plot_june_df](https://github.com/femiimam001/surfs_up/edit/main/plot_june_df.PNG)
