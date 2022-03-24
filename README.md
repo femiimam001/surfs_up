@@ -18,3 +18,7 @@ This project explores the power of Advanced Data Storage and Retrieval to effice
 Deliverable 1: Determine the Summary Statistics for June Deliverable 2: Determine the Summary Statistics for December Deliverable 3: A written report for the statistical analysis (README.md)
 
 # RESULTS
+
+## Summary Statistics DataFrame: June vs December Temperatures
+
+[]()
