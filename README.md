@@ -30,3 +30,16 @@ Deliverable 1: Determine the Summary Statistics for June Deliverable 2: Determin
 ### December Recorded Temps Visualization (Temperature and Frequency)
 
 ![plot_dec_df](https://github.com/femiimam001/surfs_up/edit/main/plot_dec_df.PNG)
+
+### PREDOMINANT WEATHER DIFFERENCES - OAHU (HAWAII)
+
+1. There was an average of 75 degrees F recorded temperature in June, with a 4 degrees higher disparity as compared to the average in December.
+   Hence,this is an indication of 5% change in average temperature from June to December.
+2. Also,the frequency of temperature in June has a significant normal curve distribution,in correlation to the smaller standard dev. measure of June agaist December.
+3. The temperature in December shows a considerable higher variability compared to June temperature. Looking at the median temperature in December, we can conclude that its within the average with little or no outliers variability away from the actual frequency recorded.
+
+### SUMMARY
+
+In conclusion,we can say that the temperature recorded in June ia less in comparison to December.December temperature provides a favourable precipitation both for surfing and ice cream sales. The 4 degress disparity in June and December average temperatures follows follows with the highest recorded through the years in 75 and 67 respectively as compared to 72 degress frequency.
+
+Hence, the summary statistics computation has shown that Oahu can construct their prospective shop irrespective of the variances in temperatures and the frequencies recorded.
