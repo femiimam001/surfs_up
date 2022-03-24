@@ -21,4 +21,4 @@ Deliverable 1: Determine the Summary Statistics for June Deliverable 2: Determin
 
 ### Summary Statistics DataFrame: June vs December Temperatures
 
-[merged_summary_stats]()
+[merged_summary_stats](https://github.com/femiimam001/surfs_up/edit/main/merged_summary_stats.PNG)
